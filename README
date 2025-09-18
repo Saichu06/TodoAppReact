@@ -1,0 +1,27 @@
+# 📝 Sai's Todo List
+
+A simple and stylish **React Todo App** built with functional components and hooks.  
+This project demonstrates state management using React's `useState`, props drilling, and basic CRUD functionality.
+
+---
+
+## ✨ Features
+
+- ➕ Add new todos
+- ✅ Mark todos as completed (checkbox)
+- ❌ Delete todos
+- 🎨 Clean, responsive UI with modern CSS styling
+- ⚡ Built with **Vite + React**
+
+---
+
+## 🛠️ Tech Stack
+
+- [React](https://react.dev/) – Frontend library
+- [Vite](https://vitejs.dev/) – Fast build tool
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) – Styling
+
+---
+
+## 📂 Project Structure
+
